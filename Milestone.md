@@ -1,7 +1,8 @@
 # Coding Milestone
-```
+```json
     {
-        "coding-milestone": [
-        ]
+        "coding-milestone": {
+            "06/2021": 
+        }
     }
 ```
