@@ -1,7 +1,16 @@
 ## About-Me
 
 Hi there! Im Rainly36. 
-Experienced in Discord.js library 
+Experienced in Discord.js library, learning react & firebase.
+
+## Im a ...
+```
+F1 Student 
+Web Developer
+Discord Bot Developer
+Fireship Pro Member
+Server Owner of 10k Members
+```
 
 ## What i learned before?
 Language:
@@ -19,13 +28,7 @@ API:
 Framework:
 - [Node.js](https://en.wikipedia.org/wiki/Node.js) - Backend 
 
-## Im a ...
-```
-Web Developer
-Discord Bot Developer
-Fireship Pro Member
-Server Owner of 10k Members
-```
+
 
 ## Task
 - [ ] [React & Firebase Course](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
