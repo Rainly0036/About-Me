@@ -1,2 +1,5 @@
 # About-Me
-About me
+
+Hi there! Im Rainly36.
+
+# What i learned before?
