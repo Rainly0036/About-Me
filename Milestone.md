@@ -2,7 +2,7 @@
 
 ```json
     {
-        "coding-milestone": {
+        "Coding Milestone": {
             "06/2021": "Start Learning Discord.js Library" 
 
             "07/2021": "Start Learning Node.js"
